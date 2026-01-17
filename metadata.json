@@ -1,0 +1,5 @@
+{
+  "name": "DevProfile Intelligence",
+  "description": "Professional developer portfolio evaluator that integrates GitHub, LeetCode, and Resume data (PDF/DOC) to provide deep career insights and job matching.",
+  "requestFramePermissions": []
+}
